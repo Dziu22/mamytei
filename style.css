@@ -196,8 +196,12 @@ footer {
     display: inline-block;
 
 }
+.photo{background-image: url(gele2.jpg);
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 
-.photo{background-image: url(eacad4b5-89d1-4193-9924-981c976e8570.jpg);
 }
 
 
